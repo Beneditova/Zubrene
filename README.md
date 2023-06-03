@@ -4,5 +4,5 @@
 
 Run locally with: 
 
-npm install
-npm run all
+## npm install
+## npm run all
