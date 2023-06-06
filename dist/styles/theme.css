@@ -1,7 +1,7 @@
 :root {
-	--foreground-color: white;
-	--background-color: black;
-	--wrong-color: red;
+	--foreground-color: #ececec;
+	--background-color: #3e2d2d;
+	--wrong-color: #a53d3d;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--foreground-color: black;
-		--background-color: white;
+		--foreground-color: #ececec;
+	--background-color: #3e2d2d;
 	}
 }
